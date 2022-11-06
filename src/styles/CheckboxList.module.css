@@ -1,0 +1,12 @@
+.myList {
+  width: 600px;
+  margin-top: 3em;
+}
+
+.myListItem {
+  padding: 0 4em;
+}
+
+.listText {
+  font-size: 1.2rem;
+}
